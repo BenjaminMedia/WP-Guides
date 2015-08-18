@@ -11,11 +11,9 @@
 
 ### Tjek om JetPack er installeret
 1. Find installerede Plugins i WordPress Administrations Panelet. Plugins > Installed Plugins
-
 ![Installed Plugins](img/select-plugin-list.png)
 
 2. Find Jetpack og klik **"Activate"**
-
 ![JetPack plugin](img/jetpack-plugin.png)
 
 3. Når pluginet er aktiveret vil du se denne besked i toppen af siden
@@ -24,7 +22,6 @@
 4. klik på **"Connect to WordPress.com"**
 
 5. Du vil derefter lande på denne side
-
 ![JetPack would like to connect to your WordPress.com account](img/connect-to-wordpress-page.png)
 
 6. Indtast dit **WordPress.com login**
@@ -33,21 +30,23 @@
 7. Når siden er blevet blank, går du tilbage til din sides adminstrations panel (eksempel: minblog.dk/wp-admin)
 
 8. Find Jetpack i menuen og klik på Jetpack linket
-
 ![JetPack i WordPress Administrations panelet](img/jetpack-menu.png)
 9. Jetpack forsiden ser sådan her ud.
 ![Jetpack Forsiden i WordPress Administrations panelet](img/jetpack-page.png)
 10. Klik **Activate** på panelet der hedder **Manage**.
 11. **Success!** Manage er nu aktiveret.
+![Manage er nu aktiveret](img/manage-activated.png)
 >Hvad gør Manage?
 >Manage giver dig mulighed for at administrerer noget af dit site via WordPress.com/sites eller i vores tilfælde via WordPress' App.
 
-![Manage er nu aktiveret](img/manage-activated.png)
+---
 
-12. Åben WordPress app'en på din smartphone / Tablet
-13. Login med dit **WordPress.com** login.
+###Forbind WordPress via App'en
 
-#Så er du færdig, god fornøjelse!
+1. Åben WordPress app'en på din smartphone / Tablet
+2. Login med dit **WordPress.com** login.
+
+###Så er du færdig, god fornøjelse!
 > -Frederik Rabøl
 
 
