@@ -11,10 +11,12 @@
 
 ### Tjek om JetPack er installeret
 1. Find installerede Plugins i WordPress Administrations Panelet. Plugins > Installed Plugins
+
 ![Installed Plugins](img/select-plugin-list.png)
 
 2. Find Jetpack og klik **"Activate"**
-![JetPack plugin](img/jetpack-plugin.png,"JetPack plugin")
+
+![JetPack plugin](img/jetpack-plugin.png)
 
 3. Når pluginet er aktiveret vil du se denne besked i toppen af siden
 ![JetPack is ready](img/jetpack-is-ready.png)
@@ -22,11 +24,16 @@
 4. klik på **"Connect to WordPress.com"**
 
 5. Du vil derefter lande på denne side
-![JetPack would like to connect to your WordPress.com account](img/jetpack-is-ready.png)
+
+![JetPack would like to connect to your WordPress.com account](img/connect-to-wordpress-page.png)
+
 6. Indtast dit **WordPress.com login**
+![JetPack would like to connect to your WordPress.com account](img/jetpack-is-ready.png)
+
 7. Når siden er blevet blank, går du tilbage til din sides adminstrations panel (eksempel: minblog.dk/wp-admin)
 
 8. Find Jetpack i menuen og klik på Jetpack linket
+
 ![JetPack i WordPress Administrations panelet](img/jetpack-menu.png)
 9. Jetpack forsiden ser sådan her ud.
 ![Jetpack Forsiden i WordPress Administrations panelet](img/jetpack-page.png)
