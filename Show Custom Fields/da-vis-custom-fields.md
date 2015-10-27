@@ -5,7 +5,7 @@
 
 ![alt text](http://puu.sh/kZsT7/3202209061.png "Screen Options knappen")
 
-+ Når du er ankommet på **Add New Post** siden, skal du klikke opppe i højre hjørne og klikke på **Screen Options**.
++ Når du er ankommet på **Add New Post** siden, skal du kigge opppe i højre hjørne og klikke på **Screen Options**.
 
 ![alt text](http://puu.sh/kZt26/e7de90c42f.png "Screen Options knappen")
 
@@ -19,3 +19,4 @@
 ---
 
 > - Frederik Rabøl
+ No newline at end of file
