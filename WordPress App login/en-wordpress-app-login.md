@@ -36,7 +36,9 @@
 10. click **Activate** in the panel marked with **Manage**.
 11. **Success!** Manage is now activated.
 ![Manage is now activated](img/manage-activated.png)
+
 >What is "Manage", and what does it do?
+
 >Manage gives you the option to manage your WordPress site or blog from WordPress.com/sites, but in this case, we want to manage it from the WordPress App.
 
 ---

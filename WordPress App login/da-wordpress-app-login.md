@@ -36,6 +36,7 @@
 10. Klik **Activate** på panelet der hedder **Manage**.
 11. **Success!** Manage er nu aktiveret.
 ![Manage er nu aktiveret](img/manage-activated.png)
+
 >Hvad gør Manage?
 >Manage giver dig mulighed for at administrerer noget af dit site via WordPress.com/sites eller i vores tilfælde via WordPress' App.
 
@@ -47,6 +48,6 @@
 2. Login med dit **WordPress.com** login.
 
 ###Så er du færdig, god fornøjelse!
-> -Frederik Rabøl
+> - Frederik Rabøl
 
 
