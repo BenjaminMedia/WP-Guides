@@ -19,4 +19,3 @@
 ---
 
 > - Frederik Rabøl
- No newline at end of file
