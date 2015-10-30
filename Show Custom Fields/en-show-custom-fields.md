@@ -12,7 +12,7 @@
 + You will now see a panel, which controls which things are visible and hidden on the page.
 + Make sure Custom Fields are checked.
 
-![alt text](img/screen-options-show.png")
+![alt text](img/screen-options-show.png)
 
 + clap yourself on the shoulder.
 

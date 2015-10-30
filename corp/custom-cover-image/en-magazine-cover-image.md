@@ -1,4 +1,4 @@
-##How to add a a logo instead of a Magazine Cover on a Brand
+##How to add a logo instead of a Magazine Cover on a Brand
 This can be useful, if your brand doesn't have a Magazine cover assigned, or needs an alternatve image, for example the Brand's logo.
 
 + Open the WordPress Administration (yoursite.com/wp-admin/)
