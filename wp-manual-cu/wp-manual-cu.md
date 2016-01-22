@@ -63,9 +63,11 @@ There are 4 fields per banner location.
 
 #####Hook
 
-- **What to enter**: the hook of banner that you defined in **Implementing the Hooks**.
+- **What to enter**: the hook of banner that you defined in **Implementing the Hooks**. 
 
-#####Desktop, Tablet, Mobile
+> Note: the **Sticky banners** & **Horshoe Banners** should use the ``header_banners`` hook.
+
+#####Desktop, Tablet & Mobile
 
 - **What to enter**: Emediate Content Unit ID. Usually a 5 digit number.
 If you've recieved the following code.
@@ -77,11 +79,13 @@ If you've recieved the following code.
 
 From the example above, the only thing you need is "**42534**".
 
+--
+
 #####General Settings
 
 **Load EAS js functions**
 
--  can either be **true (left)**, or **false(default) (right)**.
+-  can either be **true (left radio button)**, or **false(default) (right as shown on the screenshot)**.
 
 -  If the site you're working on does **NOT**, have WhiteAlbum external shell (eg. if the site you're working on has Costume.no, Bo-Bedre.no, etc. branding), this should be **OFF (right)**.
 
