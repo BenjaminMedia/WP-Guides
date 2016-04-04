@@ -35,7 +35,7 @@
 
 21. use ```vim``` to open the file you want to edit (in our case, we'll call ```vim sitename.here```)
 
-22. snippet of `sitename.here`
+	this is a snippet of `sitename.here`
 
 	````
 	server {
@@ -46,6 +46,7 @@
 	...
 	````
 
+22. Enter Editing mode by pressing `i`.
 23. add a staging domain to `server_name` after the main site name.
 
   	eg. `server_name sitename.here /* CHANGES —> */ sitenam.interactives.dk`.
@@ -61,6 +62,7 @@
 	...
 	````
 
-26. save the config file without restarting the server by running `sudo nginx -s reload`.
+25. Exit edit-mode by pressing `ESC`, and save the file by pressing `:wq`
+27.  file without restarting the server by running `sudo nginx -s reload`.
 
 > if an error occurs like: `sudo: unable to resolve host c17308`. Just ignore it.
