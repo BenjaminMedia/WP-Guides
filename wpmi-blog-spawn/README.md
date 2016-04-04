@@ -29,19 +29,15 @@
   16. If you're not sure which IP to login to, check which server you spawned the site on, after that, go to KYUP.com and login.
   17. Find the server name, and find the IP there.
 
-> [WE SHOULD ADD THIS INTO WPMI] — alt domains to conf files.
-> 
-18. using terminal commands go to ```/etc/nginx/sites-enabled/```
-
-  19. ```cd /etc/nginx/sites-enabled/```
+18. using terminal go to ```/etc/nginx/sites-enabled/```
 
 20. use ```ls``` to see a list of enable-sites files.
 
-21. use ```vim``` to open the file (eg. ```vim sitename.here```
+21. use ```vim``` to open the file you want to edit (in our case, we'll call ```vim sitename.here```)
 
-22. snippet of sitename.here:
+22. snippet of `sitename.here`
 
-	```` sitename.here
+	````
 	server {
 	listen 80;
 	server_name sitename.here;
@@ -54,7 +50,7 @@
 
   	eg. `server_name sitename.here /* CHANGES —> */ sitenam.interactives.dk`.
   
-	**snippet of sitename.here NGNIX file**
+	snippet of `sitename.here`
 	
 	```` sitename.here
 	server {
@@ -67,4 +63,4 @@
 
 26. save the config file without restarting the server by running `sudo nginx -s reload`.
 
-> if an error occurs like: `sudo: unable to resolve host c17308`. Send us a mail.
+> if an error occurs like: `sudo: unable to resolve host c17308`. Just ignore it.
